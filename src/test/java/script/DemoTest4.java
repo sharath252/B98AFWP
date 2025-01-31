@@ -1,4 +1,6 @@
-public void DemoTest4()
+package script;
+
+public class DemoTest4
   {
 
 }
